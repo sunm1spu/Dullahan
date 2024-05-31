@@ -19,7 +19,7 @@ namespace Dullahan
 
         public const string FK_LOCATION_ROOM_READER_ID = "0001";
 
-        public int LOGSCAN_RATE = 2500;
+        private int LOGSCAN_RATE = 2500;
 
         // Time of last call trackers
         // private (int, DateTime) lastScan;

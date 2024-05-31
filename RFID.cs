@@ -86,7 +86,8 @@ namespace Dullahan
         private string configURL;
 
         public void Set_Rate(int newRate)
-        { 
+        {
+            calls.SetRate(newRate);
         }
         public void Set_URL(string newURL)
         {
@@ -191,7 +192,6 @@ namespace Dullahan
                     ResponseChecker(uniqueIdArray, client, configURL);
                     scanPackage.Clear();
                     uniqueIds.Clear();
-
                 }
             }
         }

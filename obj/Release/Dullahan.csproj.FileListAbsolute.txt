@@ -18,3 +18,23 @@ C:\Users\geeky\OneDrive\Desktop\capstone\Client 3\Dullahan\obj\Release\Dullahan.
 C:\Users\geeky\OneDrive\Desktop\capstone\Client 3\Dullahan\obj\Release\Dullahan.csproj.Up2Date
 C:\Users\geeky\OneDrive\Desktop\capstone\Client 3\Dullahan\obj\Release\Dullahan.exe
 C:\Users\geeky\OneDrive\Desktop\capstone\Client 3\Dullahan\obj\Release\Dullahan.pdb
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\Dullahan.exe.config
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\Dullahan.exe
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\Dullahan.pdb
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\System.Text.Json.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\UHFReader18CSharp.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\System.Memory.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\System.ValueTuple.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\System.Text.Encodings.Web.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\System.Numerics.Vectors.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\System.Buffers.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\obj\Release\Dullahan.csproj.AssemblyReference.cache
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\obj\Release\Dullahan.csproj.SuggestedBindingRedirects.cache
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\obj\Release\Dullahan.exe.config
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\obj\Release\Dullahan.csproj.CoreCompileInputs.cache
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\obj\Release\Dullahan.csproj.Up2Date
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\obj\Release\Dullahan.exe
+C:\Users\geeky\OneDrive\Desktop\Fork\Dullahan\obj\Release\Dullahan.pdb
