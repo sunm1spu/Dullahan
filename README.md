@@ -1,5 +1,5 @@
-<p align="center">
-  <img src="Dullahan.PNG" alt="Logo" width="200" height="200">
+<p align="left">
+  <img src="Dullahan.PNG" alt="Logo" width="75" height="75">
 </p>
 
 # Dullahan
